@@ -12,4 +12,7 @@
     <string name="boutonRAZ">RAZ</string>
     <string name="libelleResultat">Résultat :</string>
     <string name="libelleAucunResultat">Vous devez cliquer sur le bouton Calculer l IMC pour obtenir un résultat.</string>
+    <string name="libelleResultatCalcul">Votre IMC est </string>
+    <string name="libelleResultatError">Impossible de calculer votre IMC</string>
+    <string name="libelleMegaIsOk">IMC au top</string>
 </resources>
